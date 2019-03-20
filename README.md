@@ -3,7 +3,6 @@
 This is a blank document for us to learn about branching and merging. In the space below, write the name of a favorite book from your childhood.
 
 * Watership Down
-* The Dark is Rising
 * A Wrinkle in Time
 * Fahrenheit 451
 * My Side of the Mountain
@@ -21,6 +20,9 @@ This is a blank document for us to learn about branching and merging. In the spa
 * Nancy Drew
 * Animorphs
 * Lord of the Flies
+* Alex Rider
+* Gone with the Wind
+* The Hollow Kingdom
 * Gathering Blue
 * Where The Red Fern Grows
 * Invisible Man  
