@@ -21,3 +21,5 @@ This is a blank document for us to learn about branching and merging. In the spa
 * Nancy Drew
 * Animorphs
 * The Hollow Kingdom
+* Where The Red Fern Grows
+* Invisible Man  
